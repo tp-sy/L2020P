@@ -1,6 +1,3 @@
--- What we need:
--- Packaging
-
 FONT = "abeezee.regular.ttf"
 PSIZE = 10
 TICK = 1
